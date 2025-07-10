@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,14 +44,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-=======
-# Movie-Application
-Backend Work here
-# Movie App Backend
-
-This is the backend server for the Movie App project, built using **Node.js**, **Express**, **MongoDB**, and **JWT** for secure user authentication. It includes routes for user registration, login, and dashboard access, with password hashing and token-based session handling.
-
-This README is meant for internal use only and is not pushed to GitHub. All development instructions, setup commands, and backend-related notes are documented here for team members working locally on the backend system.
-
-Make sure this file remains private and excluded from version control using `.gitignore`.
->>>>>>> 2e35dfec1d1d8912d4b3c8e5869e8d081001f28f
