@@ -1,0 +1,266 @@
+
+/* Register.css */
+
+.register-container {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  position: relative;
+}
+
+.register-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.nav-links {
+  display: flex;
+  gap: 25px;
+  font-size: 18px;
+}
+
+.nav-link {
+  cursor: pointer;
+  font-weight: bold;
+  color: #fff;
+}
+
+.register-center-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150vh;
+  padding-top: 60px;
+}
+
+.register-box {
+  background-color: rgba(0, 0, 0, 0.9);
+  padding: 50px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 500px;
+  color: #fff;
+  box-shadow: 0px 0px 25px rgba(255, 0, 0, 0.5);
+}
+
+.register-heading {
+  text-align: center;
+  margin-bottom: 8px;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.register-subheading {
+  text-align: center;
+  color: #bbb;
+  font-size: 16px;
+  margin-bottom: 25px;
+}
+
+.register-error {
+  color: red;
+  text-align: center;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.input-row {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 18px;
+}
+
+.input-column {
+  flex: 1;
+}
+
+.input-group {
+  margin-bottom: 18px;
+}
+
+.input-label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ddd;
+}
+
+.input-field {
+  width: 100%;
+  padding: 14px;
+  border-radius: 6px;
+  border: none;
+  background-color: #222;
+  color: #fff;
+  font-size: 16px;
+}
+
+.register-btn {
+  width: 100%;
+  padding: 14px;
+  background-color: red;
+  color: #fff;
+  border-radius: 6px;
+  border: none;
+  font-weight: bold;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.register-bottom-text {
+  text-align: center;
+  margin-top: 18px;
+  font-size: 15px;
+  color: #aaa;
+}
+
+.register-link {
+  color: red;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* Register.css */
+
+.register-container {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  position: relative;
+}
+
+.register-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.nav-links {
+  display: flex;
+  gap: 25px;
+  font-size: 18px;
+}
+
+.nav-link {
+  cursor: pointer;
+  font-weight: bold;
+  color: #fff;
+}
+
+.register-center-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150vh;
+  padding-top: 60px;
+}
+
+.register-box {
+  background-color: rgba(0, 0, 0, 0.9);
+  padding: 50px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 500px;
+  color: #fff;
+  box-shadow: 0px 0px 25px rgba(255, 0, 0, 0.5);
+}
+
+.register-heading {
+  text-align: center;
+  margin-bottom: 8px;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.register-subheading {
+  text-align: center;
+  color: #bbb;
+  font-size: 16px;
+  margin-bottom: 25px;
+}
+
+.register-error {
+  color: red;
+  text-align: center;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.input-row {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 18px;
+}
+
+.input-column {
+  flex: 1;
+}
+
+.input-group {
+  margin-bottom: 18px;
+}
+
+.input-label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ddd;
+}
+
+.input-field {
+  width: 100%;
+  padding: 14px;
+  border-radius: 6px;
+  border: none;
+  background-color: #222;
+  color: #fff;
+  font-size: 16px;
+}
+
+.register-btn {
+  width: 100%;
+  padding: 14px;
+  background-color: red;
+  color: #fff;
+  border-radius: 6px;
+  border: none;
+  font-weight: bold;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.register-bottom-text {
+  text-align: center;
+  margin-top: 18px;
+  font-size: 15px;
+  color: #aaa;
+}
+
+.register-link {
+  color: red;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: bold;
+}
